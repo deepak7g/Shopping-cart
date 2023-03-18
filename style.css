@@ -1,0 +1,25 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+  }
+  
+  td, th {
+    border: 1px solid ;
+    text-align: center;
+    padding: 8px;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  #shopcart-heading, #product-heading, #dis-heading{
+    background-color: black;
+    color: #fff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
